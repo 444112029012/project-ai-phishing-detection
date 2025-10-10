@@ -3,6 +3,17 @@ docs內的特徵與擴充套件相關
 
 形式目前皆為hackmd
 程式碼除非標註要在本地，否則運行環境為colab
+
+### 資料集進度:
+  * HTML:處理expansion2
+  * AI:處理expamsion1
+  * URL: 1、2完成，實際跑過XGBoost
+
+### 模型進度:
+  * MLP:expansion的都沒有跑過，需要試跑並調參數結構
+  * XGBoost:三種資料都試跑過
+  * RBF:尚未實作
+
   
 ```mermaid
 graph TB
